@@ -1,6 +1,4 @@
-Here's an HTML code based on the information from your document:
-
-```html
+html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -109,6 +107,3 @@ Here's an HTML code based on the information from your document:
 
 </body>
 </html>
-```
-
-This code creates a resume webpage using the content provided in the document, displaying it in a clean and structured format.
